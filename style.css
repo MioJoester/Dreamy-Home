@@ -221,6 +221,15 @@ html {
     width: 200px;
 }
 
+#particles-js {
+    position:absolute;
+    height: 80%;
+    width: 80%;
+    background-color: transparent;
+    
+  }
+  
+
 
 @media only screen and (max-width: 600px) {
 
